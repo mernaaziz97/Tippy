@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mernaaziz97/Tippy/blob/master/TippyWalkthrough.gif' title='TippyWalkthrough' width='' alt='TippyWalkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -35,9 +35,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Getting the total and tip to adjust and change everytime a different tip percentage is selected
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Merna Aziz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
